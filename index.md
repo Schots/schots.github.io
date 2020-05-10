@@ -1,7 +1,9 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## Ok Computer! 
 
-![Image of fast.ai logo](images/logo.png)
+Yes, I'm a huge Radiohead fan since the 90's :) 
 
-## This is a title
+This blog is an exercise to learn and share everything related to systems powered by Machine Learning. The heuristic here is : Don´t talk about deep learning or a spark cluster before showing me that you tried awk for data collection and a linear model to process everything. 
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+My name is Maykon Schots, an engineer from Brazil. 
+
+Glad you came here. 
